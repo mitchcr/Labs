@@ -372,9 +372,9 @@
             }
           },
           "imageReference": {
-            "publisher": "RedHat",
-            "offer": "RHEL",
-            "sku": "7.5",
+            "publisher": "redhat",
+            "offer": "rhel-raw",
+            "sku": "7_7",
             "version": "latest"
           }
         },
