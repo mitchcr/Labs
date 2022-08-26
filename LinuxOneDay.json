@@ -374,7 +374,7 @@
           "imageReference": {
             "publisher": "RedHat",
             "offer": "RHEL",
-            "sku": "7.6",
+            "sku": "7.5",
             "version": "latest"
           }
         },
